@@ -13,7 +13,6 @@ public class palindrome {
     public static void main(String args[]){
        Scanner sc = new Scanner(System.in);
        String str = sc.next();
-    //    String str = "racecar";
        boolean idx= isPalindrome(str);
        if(idx == true){
         System.out.println("yes");
