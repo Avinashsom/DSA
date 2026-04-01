@@ -1,4 +1,4 @@
-class Binary_Search {
+class squareRoot{
     public int floorSqrt(int n) {
       int low=1;int high=n;
       int ans=1;
